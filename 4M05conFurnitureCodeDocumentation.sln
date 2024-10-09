@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4M05conFurnitureCodeDocumentation", "4M05conFurnitureCodeDocumentation\4M05conFurnitureCodeDocumentation.csproj", "{993C42D2-54E6-4A48-AD71-19BF74CEFB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993C42D2-54E6-4A48-AD71-19BF74CEFB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993C42D2-54E6-4A48-AD71-19BF74CEFB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993C42D2-54E6-4A48-AD71-19BF74CEFB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993C42D2-54E6-4A48-AD71-19BF74CEFB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1BD105-2BF4-4F91-8CFA-E20A252A8FA6}
+	EndGlobalSection
+EndGlobal
